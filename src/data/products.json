@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Pumpkin Spice Candle",
+      "price": 12.99,
+      "category": "Home Decor",
+      "image": "/images/pumpkin-candle.jpg",
+      "description": "A cozy pumpkin spice scented candle to warm up your autumn evenings.",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Autumn Leaf Wreath",
+      "price": 24.50,
+      "category": "Decor",
+      "image": "/images/autumn-wreath.jpg",
+      "description": "A beautiful wreath with colorful autumn leaves for your door.",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Warm Knit Scarf",
+      "price": 18.00,
+      "category": "Clothing",
+      "image": "/images/knit-scarf.jpg",
+      "description": "Soft, cozy scarf perfect for crisp autumn days.",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Hot Chocolate Mix",
+      "price": 6.99,
+      "category": "Food & Drink",
+      "image": "/images/hot-choco.jpg",
+      "description": "Rich and creamy hot chocolate mix, ideal for chilly evenings.",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Autumn Mug",
+      "price": 9.50,
+      "category": "Kitchenware",
+      "image": "/images/autumn-mug.jpg",
+      "description": "A ceramic mug decorated with autumn leaves, perfect for warm drinks.",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Cozy Blanket",
+      "price": 35.00,
+      "category": "Home Decor",
+      "image": "/images/cozy-blanket.jpg",
+      "description": "A soft, warm blanket to curl up with on chilly nights.",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Apple Cider Soap",
+      "price": 5.99,
+      "category": "Bath & Body",
+      "image": "/images/apple-cider-soap.jpg",
+      "description": "Handmade soap with the warm scent of autumn apple cider.",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Acorn String Lights",
+      "price": 14.50,
+      "category": "Home Decor",
+      "image": "/images/acorn-lights.jpg",
+      "description": "Festive string lights shaped like acorns to brighten your home.",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "Plaid Throw Pillow",
+      "price": 22.00,
+      "category": "Home Decor",
+      "image": "/images/plaid-pillow.jpg",
+      "description": "Soft throw pillow with classic autumn plaid pattern.",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "Cinnamon Stick Bundle",
+      "price": 3.50,
+      "category": "Food & Decor",
+      "image": "/images/cinnamon-bundle.jpg",
+      "description": "A bundle of fragrant cinnamon sticks, perfect for cooking or decorating.",
+      "isFavorite": false
+    }
+  ]
+  
